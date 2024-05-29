@@ -2,7 +2,7 @@ package com.juint5.annotation;
 
 import org.junit.jupiter.api.*;
 
-// Test class for Nested annotation
+/// Test class for Nested annotation
 public class NestedTest {
 
     // Nested test class
@@ -25,3 +25,4 @@ public class NestedTest {
         }
     }
 }
+
