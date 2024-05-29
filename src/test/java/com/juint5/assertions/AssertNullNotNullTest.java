@@ -4,7 +4,6 @@ import org.junit.jupiter.api.*;
 // Test class for assertNull and assertNotNull
 public class AssertNullNotNullTest {
 
-    // Test method using assertNull
     @Test
     @DisplayName("Test with assertNull")
     public void testWithNull() {
@@ -13,7 +12,6 @@ public class AssertNullNotNullTest {
         Assertions.assertNull(nullString, "The string should be null");
     }
 
-    // Test method using assertNotNull
     @Test
     @DisplayName("Test with assertNotNull")
     public void testWithNotNull() {

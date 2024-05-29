@@ -5,7 +5,6 @@ import org.junit.jupiter.api.*;
 // Test class for assertThrows
 public class AssertThrowsTest {
 
-    // Test method using assertThrows
     @Test
     @DisplayName("Test with assertThrows")
     public void testWithThrows() {

@@ -5,7 +5,6 @@ import org.junit.jupiter.api.*;
 // Test class for assertArrayEquals
 public class AssertArrayEqualsTest {
 
-    // Test method using assertArrayEquals
     @Test
     @DisplayName("Test with assertArrayEquals")
     public void testArrayEquals() {

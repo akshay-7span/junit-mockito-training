@@ -5,7 +5,6 @@ import org.junit.jupiter.api.*;
 // Test class for assertFalse
 public class AssertFalseTest {
 
-    // Test method using assertFalse
     @Test
     @DisplayName("Test with assertFalse")
     public void testWithFalse() {

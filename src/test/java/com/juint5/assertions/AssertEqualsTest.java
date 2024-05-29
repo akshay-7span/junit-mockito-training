@@ -5,7 +5,6 @@ import org.junit.jupiter.api.*;
 // Test class for assertEquals
 public class AssertEqualsTest {
 
-    // Test method using assertEquals
     @Test
     @DisplayName("Test with assertEquals")
     public void testWithEquals() {
